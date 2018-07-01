@@ -78,6 +78,7 @@
 ![](/images/dynamic_graph.gif)
 ---
 ## Dynamic Computational Graph - But How?
+<!-- ![](/images/how-cat.gif) -->
 ![](/images/how-monkey.gif)
 ---
 ## Reverse Mode Auto-Differentiation
